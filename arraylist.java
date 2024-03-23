@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.stream.Stream;
 
 public class arraylist { // Class name starts with uppercase
-
+    
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<Integer>();
 
